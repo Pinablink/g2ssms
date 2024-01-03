@@ -1,4 +1,5 @@
 # G2ssms
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/Pinablink/tmdbGoTutorial?style=plastic)
 
 ## Apresentação
 Módulo de suporte a aplicações escritas em Golang, que permite envio de SMS. Esse módulo trabalha utilizando um servidor de envio de SMS. Pode ser um envio individual ou massivo. Portanto sua utilização é dependente da assinatura dessa plataforma, onde por um valor você adquiri um pacote de mensagens. Com a assinatura você tem acesso a um Painel Admin, onde pode enviar e gerenciar sua mensagem por esse meio. Além desse painel, existe uma API onde qualquer aplicação pode consumir esse recurso.  
